@@ -60,6 +60,7 @@ fun GreetingText(message: String, from: String, modifier: Modifier = Modifier) {
                 .align(alignment = Alignment.CenterHorizontally)
         )
     }
+
 }
 
 @Composable
